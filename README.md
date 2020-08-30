@@ -15,6 +15,14 @@ In love with IT area, I easily learn new things and technologies, every time loo
  - :chart_with_upwards_trend: I like everything related to investment and stocks.
  - :green_book: Trying to improve my writing with some articles in [Medium](https://medium.com/@emilioheinz)
 
+## :wrench: Tech Stack
+
+ - Git
+ - Javascript
+ - React Native
+ - Firebase
+ - Flutter
+
 ## :octocat: My Github Stats:
 
 [![Visits Badge](https://badges.pufler.dev/visits/emilioheinz/emilioheinz?style=for-the-badge)](https://github.com/emilioheinz/emilioheinz)
