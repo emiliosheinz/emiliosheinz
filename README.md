@@ -17,9 +17,9 @@ In love with IT area, I easily learn new things and technologies, every time loo
 
 [![Visits Badge](https://badges.pufler.dev/visits/emilioheinz/csorlandi?style=for-the-badge)](https://github.com/emilioheinz/emilioheinz)
 ![Repos Badge](https://badges.pufler.dev/repos/emilioheinz?style=for-the-badge)
+[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=emilioheinz&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=emilioheinz&count_private=true&show_icons=true&theme=algolia&line_height=27">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilioheinz)](https://github.com/anuraghazra/github-readme-stats)
