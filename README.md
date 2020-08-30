@@ -24,7 +24,8 @@ In love with IT area, I easily learn new things and technologies, every time loo
 </p>
 <p>
   <img src="https://img.shields.io/badge/firebase-ffa800.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flutter-1889FD.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>[
+  <img src="https://img.shields.io/badge/typescript-3178C5.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-1889FD.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ## :octocat: My Github Stats:
