@@ -15,9 +15,9 @@ In love with IT area, I easily learn new things and technologies, every time loo
 
 ## :octocat: My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/emilioheinz/csorlandi?style=for-the-badge)](https://github.com/emilioheinz/emilioheinz)
+[![Visits Badge](https://badges.pufler.dev/visits/emilioheinz/emilioheinz?style=for-the-badge)](https://github.com/emilioheinz/emilioheinz)
 ![Repos Badge](https://badges.pufler.dev/repos/emilioheinz?style=for-the-badge)
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/emilioheinz?style=for-the-badge)](https://badges.pufler.dev)
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=emilioheinz&count_private=true&show_icons=true&theme=algolia&line_height=27">
