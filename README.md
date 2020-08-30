@@ -1,6 +1,11 @@
 ## Hi there, I'm Emilio 👋
 ----
 
+<a href="https://www.linkedin.com/in/emilio-heinzmann-b6205a14b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/emilioheinzz"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://medium.com/@emilioheinz"><img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="mailto:emiliosheinz@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+
 React Native Developer at [CWI Software](https://cwi.com.br/)
 
 In love with IT area, I easily learn new things and technologies, every time looking for improve my skills in everything that I do. Computer Science student I've solid knowledge about mobile development, mainly with React Native.
@@ -22,10 +27,4 @@ In love with IT area, I easily learn new things and technologies, every time loo
   <img src = "https://github-readme-stats.vercel.app/api?username=emilioheinz&count_private=true&show_icons=true&theme=algolia&line_height=27">
 </p>
 
-### :mag_right: How to reach me:
-----
 
-<a href="https://www.linkedin.com/in/emilio-heinzmann-b6205a14b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/emilioheinzz"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://medium.com/@emilioheinz"><img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="mailto:emiliosheinz@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
