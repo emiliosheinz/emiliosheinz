@@ -17,11 +17,15 @@ In love with IT area, I easily learn new things and technologies, every time loo
 
 ## :wrench: Tech Stack
 
- - Git
- - Javascript
- - React Native
- - Firebase
- - Flutter
+<p>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-e2cb1b.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_native-62DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/firebase-ffa800.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-1889FD.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>[
+</p>
 
 ## :octocat: My Github Stats:
 
