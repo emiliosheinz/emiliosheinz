@@ -7,7 +7,7 @@
 
 React Native Developer at [CWI Software](https://cwi.com.br/)
 
-In love with IT area, I easily learn new things and technologies, every time looking for improve my skills in everything that I do. Computer Science student I've solid knowledge about mobile development, mainly with React Native.
+In love with IT area, I easily learn new things and technologies, every time trying improve my skills in everything that I do. Computer Science student I've solid knowledge about mobile development, mainly with React Native.
 
  - :computer: I’m currently working with React Native and his entire ecosystem.
  - :heart_eyes: Passionate about education and mobile development.
