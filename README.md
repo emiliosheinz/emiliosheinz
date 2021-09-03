@@ -9,10 +9,10 @@
 
 React Native Developer at [CWI Software](https://cwi.com.br/)
 
-In love with IT area, I easily learn new things and technologies, every time trying improve my skills in everything that I do. Computer Science student I've solid knowledge about mobile development, mainly with React Native.
+In love with IT area, I easily learn new things and technologies, every time trying to improve my skills in everything that I do. Computer Science student, I've solid knowledge about mobile development, mainly with React Native.
 
- - :computer: I’m currently working with React Native and his entire ecosystem.
- - :heart_eyes: Passionate about education and mobile development.
+ - :computer: I’m currently working with React Native and its entire ecosystem.
+ - :heart_eyes: Passionate about education, mobile development and open source projects.
  - :seedling: I’m currently learning more about Flutter.
  - :chart_with_upwards_trend: I like everything related to investment and stocks.
  - :green_book: Trying to improve my writing with some articles in [Medium](https://medium.com/@emilioheinz)
