@@ -7,7 +7,7 @@
 <a href="http://strava.com/athletes/50224378"><img src="https://img.shields.io/badge/strava-F95200.svg?style=for-the-badge&logo=strava&logoColor=white"></a>
 
 
-React Native Developer at [CWI Software](https://cwi.com.br/)
+Software Developer at [CWI Software](https://cwi.com.br/)
 
 In love with IT area, I easily learn new things and technologies, every time trying to improve my skills in everything that I do. Computer Science student, I've solid knowledge about mobile development, mainly with React Native.
 
