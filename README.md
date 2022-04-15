@@ -16,7 +16,6 @@ In love with IT area, I easily learn new things and technologies, every time try
  - :seedling: I’m currently learning more about Flutter.
  - :chart_with_upwards_trend: I like everything related to investment and stocks.
  - :green_book: Trying to improve my writing with some articles in [Medium](https://medium.com/@emilioheinz)
- - :bicyclist: Cycling is my favorite sport
 
 ## :wrench: Tech Stack
 
