@@ -9,11 +9,11 @@
 
 Software Developer at [CWI Software](https://cwi.com.br/)
 
-In love with IT area, I easily learn new things and technologies, every time trying to improve my skills in everything that I do. Computer Science student, I've solid knowledge about mobile development, mainly with React Native.
+In love with IT area, Computer Science student, I have been working on the development of Front-end applications (mobile and web), daily accessed by thousands of users, since 2019. Constantly looking to improve everything I do, I easily learn new things, which allows me to adapt to different scenarios and realities very quickly.
 
- - :computer: I’m currently working with React Native and its entire ecosystem.
- - :heart_eyes: Passionate about education, mobile development and open source projects.
- - :seedling: I’m currently learning more about Flutter.
+ - :computer: I’m currently working with React and NextJS.
+ - :heart_eyes: Passionate about education and open source projects.
+ - :seedling: I’m currently learning more about Security through [Pato Academy](https://pato.academy/).
  - :chart_with_upwards_trend: I like everything related to investment and stocks.
  - :green_book: Trying to improve my writing with some articles in [Medium](https://medium.com/@emilioheinz)
 
