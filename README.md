@@ -16,3 +16,5 @@ In love with IT area, Computer Science student, I have been working on the devel
  - :seedling: I’m currently learning more about Security through [Pato Academy](https://pato.academy/).
  - :chart_with_upwards_trend: I like everything related to investment and stocks.
  - :green_book: Trying to improve my writing with some articles in [Medium](https://medium.com/@emilioheinz)
+
+Questions? Reach me out!!! I would love to talk 😉
