@@ -7,7 +7,7 @@
 <a href="http://strava.com/athletes/50224378"><img src="https://img.shields.io/badge/strava-F95200.svg?style=for-the-badge&logo=strava&logoColor=white"></a>
 
 
-Senior Frontedn Software Engineer at [Cloudbes](https://www.cloudbeds.com/)
+Senior Frontend Software Engineer at [Cloudbeds](https://www.cloudbeds.com/)
 
 In love with IT area, Computer Science student, I have been working on the development of Front-end applications (mobile and web), daily accessed by thousands of users, since 2019. Constantly looking to improve everything I do, I easily learn new things, which allows me to adapt to different scenarios and realities very quickly.
 
