@@ -11,7 +11,7 @@ Senior Frontend Software Engineer at [Cloudbeds](https://www.cloudbeds.com/)
 
 In love with IT area, Computer Science student, I have been working on the development of Front-end applications (mobile and web), daily accessed by thousands of users, since 2019. Constantly looking to improve everything I do, I easily learn new things, which allows me to adapt to different scenarios and realities very quickly.
 
- - :computer: I’m currently working with Microfrotends built with React and Vue.
+ - :computer: I’m currently working with Microfrontends built with React and Vue.
  - :heart_eyes: Passionate about education and open source projects.
  - :seedling: I’m currently learning more about Security through [Pato Academy](https://pato.academy/).
  - :chart_with_upwards_trend: I like everything related to investment and stocks.
