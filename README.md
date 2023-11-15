@@ -8,7 +8,7 @@ As an experienced Software Engineer graduated with a B.Sc. degree in Computer Sc
 
  - :computer: I’m currently working with Microfrontends built with React and Vue;
  - :heart_eyes: Passionate about education and open source projects;
- - :seedling: I’m currently learning more about Security through [Pato Academy](https://pato.academy/).
+ - :seedling: I’m currently learning more about Software Architecture, Microservices Development, and DevOps through [Full Cycle](https://fullcycle.com.br/).
 
 If you would like to learn more about me and what I do, please visit my portfolio:
 
