@@ -10,7 +10,7 @@ As an experienced Software Engineer graduated with a B.Sc. degree in Computer Sc
  - :heart_eyes: Passionate about education and open source projects;
  - :seedling: I’m currently learning more about Software Architecture, Microservices Development, and DevOps through [Full Cycle](https://fullcycle.com.br/).
 
-If you would like to learn more about me and what I do, please visit my portfolio:
+If you would like to learn more about me and what I do, please visit my online portfolio:
 
 <a target="_blank" href="https://emiliosheinz.com" style="height: min-content">
  <img src="https://emiliosheinz.com/images/bookmark.png" style="width: 100%">
